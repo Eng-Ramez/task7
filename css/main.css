@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #2C3E50;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    position: sticky;
+    top: 0;
+}
+.title1{
+    color: white;
+    font-size: 30px;
+    margin-left: 70px;
+    
+}
+.logo{
+   
+    background-color: #1ABC9C;
+
+}
+.mintitle{
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.logo1{
+ width: 240px;
+ height: 254.53px;
+}
+.icon{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px; 
+    padding-bottom: 10px;
+    
+}
+.title2{
+    font-size: 64px;
+    color: white;
+    margin-top: 10px ;
+    font-weight: bold;
+    
+}
+.link1{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+.n-nav
+{ 
+         text-align: center; 
+         
+}
+.Portfolio{
+    
+    text-align: center;
+    color: #2C3E50;
+}
+.title-por{
+    font-size: 48px;
+}
+.products{
+ 
+    display: flex;  
+    justify-content: center;
+    f
+}
+.per-product{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    
+}
+.p1{
+    width: 400px;
+    height: 288.88px;
+    border-radius: 12px;
+}
+.about{
+    text-align: center;
+    color: #2C3E50;
+    background-color: #1ABC9C;
+    color: white;
+    padding: 16px 28px;
+}
+.pragraph{
+    display: flex;
+    justify-content: center;
+}
+.pragraph1{
+    width: 416px;
+    height: 150px;
+    text-align: left;
+    padding:20px;
+}
+.pragraph2{
+    width: 416px;
+    height: 150px; 
+    text-align: left;
+    padding: 20px;
+}
+.free-download{
+    text-align: center;
+    color: #2C3E50;
+    background-color: #1ABC9C;
+    color: white;
+    padding: 20px;
+    margin-bottom: 40px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.contact{
+    text-align: center;
+    color: #2C3E50;
+    padding: 20px;
+    margin-bottom: 40px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.input-contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.input{
+    width: 641px;
+    height: 88px;
+     border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+.form{
+    width: 641px;
+}
+.button{
+    display: flex;
+    align-items: start;
+    padding:10px 30px;
+    border-radius: 10px;
+    background-color: #1ABC9C;
+     border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+.footer-part{
+    background-color: #2C3E50;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social-media {
+    
+    justify-content: center;
+    align-items: center;
+   
+  }
+ .social-icon{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-left: 5px;
+
+ }
+ .pragraph3{
+    margin: 15px;
+    text-align: center;
+  
+ }
+ .social{
+    color: aqua;
+ }
+ .footer{
+    background-color: #182635;
+    height: 60%;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 10px;
+ }
+
+
+
+
